@@ -1,0 +1,10 @@
+{
+  "item.kursachmod.katana": "First Katana",
+  "creativemodtab.tab": "MOD",
+
+  "block.kursachmod.block_one": "Magic Lazurit",
+
+  "campfire.respawn_lit": "Congratulations! You've opened the campfire! Respawn point set!",
+  "campfire.respawn_unlit": "This campfire is extinguished. No respawn point for you.",
+  "campfire.respawn_empty": "The spawn point is not set!"
+}
