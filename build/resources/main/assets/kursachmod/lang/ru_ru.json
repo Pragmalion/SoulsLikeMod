@@ -1,0 +1,10 @@
+{
+  "item.kursachmod.katana": "Первая Катана",
+  "creativemodtab.tab": "МОД",
+
+  "block.kursachmod.block_one": "Машический Лазурит",
+
+  "campfire.respawn_lit": "ОООО, ты открыл костер, грац! Точка возрождения установлена!",
+  "campfire.respawn_unlit": "Этот костер потушен, какая тебе точка возрождения, а?",
+  "campfire.respawn_empty": "Точка возрождения не задана! Удачи :)"
+}
