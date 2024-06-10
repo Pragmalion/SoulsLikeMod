@@ -129,7 +129,8 @@ public class RespawnHandler {
                 BlockState state = world.getBlockState(respawnPos);
                 Block block = state.getBlock();
                 if (block instanceof CampfireBlock && state.getValue(CampfireBlock.LIT)) {
-                    serverPlayer.teleportTo((ServerLevel) world, respawnPos.getX() + 0.5, respawnPos.getY(), respawnPos.getZ() + 0.5, player.getYRot(), player.getXRot());
+                    serverPlayer.teleportTo((ServerLevel) world, respawnPos.getX() + 0.5, respawnPos.getY(),
+                            respawnPos.getZ() + 0.5, player.getYRot(), player.getXRot());
                 } else {
                     serverPlayer.sendSystemMessage(Component.literal("Точка возрождения не задана! Удачи :)"));
                 }

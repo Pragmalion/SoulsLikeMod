@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    " N ",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:trident"
+    },
+    "B": {
+      "item": "minecraft:lightning_rod"
+    },
+    "N": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "kursachmod:staff",
+    "count": 1
+  }
+}

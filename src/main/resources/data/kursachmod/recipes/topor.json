@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " SS",
+    " BS",
+    " N "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:emerald"
+    },
+    "N": {
+      "item": "minecraft:wooden_axe"
+    },
+    "B": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+  "result": {
+    "item": "kursachmod:topor",
+    "count": 1
+  }
+}
